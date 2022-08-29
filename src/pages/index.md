@@ -2,8 +2,8 @@
 layout: "../layouts/Layout.astro"
 name: ismahan djama
 image: "./avatar_hat.jpg"
-function: Designer
-address: London, UK
+function: devéloppeuse
+address: balbala, Djibouti
 email: ex@mail.com
 telephone: "1224435534"
 skills:
