@@ -1,11 +1,11 @@
 ---
 layout: "../layouts/Layout.astro"
 name: ismahan djama
-image: "./avatar_hat.jpg"
+image: "/public/image-1.jpg"
 function: devéloppeuse
 address: balbala, Djibouti
-email: ex@mail.com
-telephone: "1224435534"
+email: ismahandjamaatteyeh@gmail.com
+telephone: 77 68 62 85
 skills:
 - name: Adobe Photoshop
   percentage: 90
